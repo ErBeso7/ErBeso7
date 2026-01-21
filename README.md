@@ -1,8 +1,4 @@
-# Hi there 👋 I'm Erbe777
-
-🚀 Web Developer | Student | Passionate about Programming and Projects
-
----
+# Hey there
 
 ## 🔧 Skills & Languages
 
