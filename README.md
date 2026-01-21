@@ -1,16 +1,14 @@
-## Hi there 👋
+# MR. AURA
 
-<!--
-**ErBeso7/ErBeso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- PHP, C#, HTML, CSS, JavaScript
+- Git & GitHub
+- Responsive Web Design
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- [Bibliotech](https://github.com/Erbe777/Bibliotech) - School library project
+- [My Tier List App](https://github.com/Erbe777/TierListApp) - C# Windows app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: besomarcoprofessional@gmail.com
+
