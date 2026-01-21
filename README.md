@@ -1,7 +1,7 @@
 # MR. AURA
 
 ## 🔧 Skills
-- PHP, C#, HTML, CSS, JavaScript
+- PHP, C#, HTML, CSS, JavaScript, C, C++, Java
 - Git & GitHub
 - Responsive Web Design
 
