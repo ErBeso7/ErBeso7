@@ -15,12 +15,6 @@
 
 ---
 
-## 🌟 Projects Highlights
-
-- [Bibliotech](https://github.com/Erbe777/Bibliotech) – School library project in PHP  
-
----
-
 ## 📫 Contact
 
 - Email: besomarcoprofessional@gmail.com
